@@ -1,0 +1,46 @@
+body {
+    font-size: 20px;
+}
+
+.main_title {
+    padding: 10px;
+    background-color: rgb(230, 229, 229);
+}
+
+.second_title {
+    padding: 10px;
+    color: lightgray;
+}
+
+.job_table {
+    padding: 0px;
+    max-width: 80%;
+}
+
+.container {
+    max-width: 95%;
+}
+
+.first-row {
+    background-color: rgb(202, 202, 202);
+}
+
+.second-row {
+    background-color: rgb(170, 202, 243);
+}
+
+.pd-col {
+    padding: 10px;
+}
+
+.green-col {
+    background-color: rgb(129, 238, 169);
+}
+
+.red-col {
+    background-color: rgb(240, 144, 141);
+}
+
+.main_block {
+    padding-left: 25px;
+}
